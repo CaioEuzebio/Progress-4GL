@@ -1,0 +1,1 @@
+MESSAGE "Test Msg" VIEW-AS ALERT-BOX.
